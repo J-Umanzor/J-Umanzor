@@ -3,7 +3,7 @@
 # Jeffrey Umanzor
 
 ### Computer Science Student @ The City College of New York  
-### Full-Stack Development • Backend Development • Software Engineering
+### Full-Stack Development • Software Engineering
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=600&lines=Building+practical+software;Learning+modern+web+development;Improving+full-stack+and+backend+skills" />
 
